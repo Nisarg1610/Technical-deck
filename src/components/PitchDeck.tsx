@@ -85,7 +85,7 @@ const PitchDeck = () => {
   {
     title: 'Recent Impact',
     subtitle: 'Service Desk Analyst | WebX, Toronto',
-    date: 'September 2024 - December 2024',
+    date: 'December 2023 - January 2025',
     content: <ul className="list-disc pl-5 text-gray-300 space-y-2">
           <li>
             Led technical support initiatives achieving an outstanding 90%
@@ -108,7 +108,7 @@ const PitchDeck = () => {
   {
     title: 'Foundation Building',
     subtitle: 'Junior Technical Support Analyst | WebX, Toronto',
-    date: 'May 2024 - August 2024',
+    date: 'Oct 2022 - Dec 2023',
     content: <ul className="list-disc pl-5 text-gray-300 space-y-2">
           <li>
             Built and optimized hardware configurations for maximum performance
